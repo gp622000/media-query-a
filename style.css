@@ -163,6 +163,9 @@ body {
   .content {
     flex-direction: column;
   }
+  #sahara {
+    font-size: 3.5rem;
+  }
   .card {
     justify-content: center;
     align-items: center;
